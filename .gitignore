@@ -1,1 +1,3 @@
-# This is a gitignore file
+venv/
+.idea/
+*.sqlite3
